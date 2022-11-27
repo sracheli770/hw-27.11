@@ -1,0 +1,27 @@
+@import url('https: //fonts.googleapis.com/css2?family=Henny+Penny&family=Pattaya&family=Roboto&display=swap');
+
+.myTop {
+    z-index: 100;
+    bottom: 10px;
+    left: 10px;
+    opacity: 1;
+}
+
+.myImg {
+    width: 40%;
+    border: 5px solid #000;
+}
+
+p {
+    font-family: Roboto;
+    text-align: justify;
+}
+
+.myLogo {
+    width: 20%;
+    border: 1px solid #000;
+}
+
+
+
+@import '~bootstrap/scss/bootstrap.scss';
